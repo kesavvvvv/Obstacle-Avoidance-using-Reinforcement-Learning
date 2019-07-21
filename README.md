@@ -4,7 +4,7 @@ This project aims at developing an obstacle avoidance bot. The bot is equipped w
 
 Training
 
-Rewards are given based on the action taken by the bot, using these rewards the weights are adjusted after every 100 actions taken by the bot (Experience Replay).
+Rewards are given based on the action taken by the bot, using these rewards the weights for the neural network are adjusted after every 100 actions taken by the bot (Experience Replay).
 
 Below is a Youtube link of a real time demonstration.
 
